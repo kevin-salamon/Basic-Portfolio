@@ -95,6 +95,7 @@ footer {
     border-style: solid;
     border-color: white;
     border-bottom-color: black;
+    color: #4aaaa5;
     font-size: 28px;
     padding-left: 20px;
 }
@@ -109,4 +110,8 @@ footer {
     height: 30%;
     width: 99.5%;
     padding: 5px;
+}
+
+.contact-form {
+    padding-left: 20px;
 }
